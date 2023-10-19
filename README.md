@@ -1,4 +1,4 @@
-# inomad-demo
+# INOMAD-demo
 Demo video for INOMAD, an e-commerce platform for a sustainable furniture design studio
 
 Code samples available upon request
