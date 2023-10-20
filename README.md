@@ -15,7 +15,7 @@ Due to the business nature of this project, the original repository is private. 
 <hr>
 
 #### User Experience
-- Cart for both registred and anonymous users
+- Cart for both registered and anonymous users
 - Product List Page
 - Product category Page
 - Product Detail Pages
