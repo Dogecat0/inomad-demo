@@ -39,4 +39,4 @@ Due to the business nature of this project, the original repository is private. 
 
 <hr>
 
-![INOMAD demo video](/inomad_demo_video.gif)
+![INOMAD demo video](/240808-inomad-demo_video.gif)
