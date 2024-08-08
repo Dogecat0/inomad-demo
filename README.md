@@ -20,6 +20,7 @@ Due to the business nature of this project, the original repository is private. 
 - Product Detail Pages
 - Service List Page
 - Service case detail page
+- Material Research page
 - News Page
 - (Incoming) E-commerce functions
 
